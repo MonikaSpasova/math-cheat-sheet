@@ -1,2 +1,6 @@
-jfjfnbj
-ooo
+<<<<<<< HEAD
+
+
+
+math 
+
